@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - bikashtudu
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - rohitranjan017/Interfacing-and-Data-Acquisition-from-Scientific-Instruments
+  # - twbs/bootstrap
+  # - jekyll/jekyll
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - jpswalsh/academicons
+  # - mathjax/MathJax
